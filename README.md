@@ -1,7 +1,7 @@
 # LogicGate Software Engineering Internship Challenge
 
 ## How to Run 
-After Extracting, open the terminal and cd into ArdonnissZimero_Submission directory
+After Extracting, open the terminal and cd into the directory that contains index.js and
 from there run the following command to run the program. 
 
 ``` 
